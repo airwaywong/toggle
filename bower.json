@@ -1,0 +1,25 @@
+{
+  "name": "toggle",
+  "authors": [
+    "Wei Wang <wwang1@ea.com>"
+  ],
+  "description": "",
+  "main": "toggle.js",
+  "moduleType": [
+    "amd",
+    "node",
+    "globals"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.5.1"
+  }
+}
